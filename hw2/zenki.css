@@ -1,0 +1,73 @@
+
+/*タイトル*/
+.box1{
+
+}
+/*ナビ*/
+
+ul,li{
+  list-style: none;
+}
+.menu ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.menu li a{
+  display: block;
+  color: #000000;
+  text-decoration: none;
+  padding: 13px;
+}
+
+.menu li a:hover{
+  background-color: #9ebfb3
+}
+
+.menu li{
+  float: left;
+}
+
+.menu ul:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+/*ヘッダー*/
+.box3 img{
+
+}
+
+.kuro{
+  background-color: #2a2a2a;
+  height: 30px;
+}
+.tya{
+  background-color: #544d3d;
+  height: 75px;
+}
+/*データの分析*/
+.box4{
+  float: left;
+  width: 350px;
+  background-color: #a9b02b;
+  color: #ffffff
+}
+/*わかりやすく視覚化*/
+.box5{
+  float: left;
+  width: 350px;
+  background-color: #cf8836;
+  color: #ffffff
+}
+/*２４時間サポ−ト*/
+.box6{
+  float: left;
+  width: 350px;
+  background-color: #739055;
+  color: #ffffff
+}
+/*お知らせ*/
+
+/*SNS*/
